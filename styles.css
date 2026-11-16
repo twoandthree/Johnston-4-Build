@@ -75,7 +75,7 @@ ul li {
         align-items: center;
     }
     nav ul{
-        display: flex;
+        flex-direction: row;
         gap: 1.5em;
     }
 }
@@ -86,7 +86,7 @@ ul li {
         padding: 1rem;
     }
     nav ul{
-        display: flex;
+        flex-direction: row;
         gap: 1.5rem;
     }
 }
